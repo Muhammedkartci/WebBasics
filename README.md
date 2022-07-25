@@ -4,5 +4,5 @@
 ---
 ## Author
 ```
-Muhammed Fatih Kartci
+Muhammed Fatih Kartcı
 ```
